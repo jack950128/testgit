@@ -1,0 +1,83 @@
+<Solution>
+  <PropertyGroup Name="DO_Layer" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="dating">
+          <Image Name="add.png" />
+          <Image Name="bg-dating.png" />
+          <Image Name="cjfj.png" />
+          <Image Name="dating.png" />
+          <Image Name="dating-biaozhu.png" />
+          <Image Name="gonggao.png" />
+          <TTF Name="happy.ttf" />
+          <Image Name="help.png" />
+          <Image Name="jrfj.png" />
+          <Image Name="logo.png" />
+          <Image Name="NEED1.jpg" />
+          <Image Name="NEED2.jpg" />
+          <Image Name="nicheng-dk.png" />
+          <TTF Name="PingFang-Bold.ttf" />
+          <TTF Name="PingFang-Medium.ttf" />
+          <Image Name="ren.png" />
+          <Image Name="set.png" />
+          <Image Name="share.png" />
+          <Image Name="table.png" />
+          <Image Name="touxiang-dk.png" />
+          <Image Name="touxiang-gg.png" />
+          <Image Name="zhanji.png" />
+          <Image Name="zuanshi.png" />
+          <Image Name="zuanshi-dk.png" />
+        </Folder>
+        <Folder Name="Project">
+          <Image Name="abc_btn_check_to_on_mtrl_015.png" />
+          <Image Name="add_room.png" />
+          <Image Name="Back.png" />
+          <Image Name="btn_back_sala.png" />
+          <Image Name="Button_WeiXinLogon.png" />
+          <Image Name="close_icon.png" />
+          <Image Name="diamond_pic.png" />
+          <Image Name="head.jpg" />
+          <Image Name="head_pic.png" />
+          <Image Name="help.jpg" />
+          <Image Name="help_icon.png" />
+          <Image Name="loadingPrecess.png" />
+          <Image Name="loadProcessBg.png" />
+          <Image Name="loginBg.jpg" />
+          <Image Name="notice.jpg" />
+          <Image Name="notice_icon.png" />
+          <Image Name="over_bj.jpg" />
+          <Image Name="over_kaishi.png" />
+          <Image Name="recharge.jpg" />
+          <Image Name="recharge_icon.png" />
+          <Image Name="result.jpg" />
+          <Image Name="result_icon.png" />
+          <Image Name="set.jpg" />
+          <Image Name="set_icon.png" />
+          <Image Name="setup_room.png" />
+          <Image Name="share.jpg" />
+          <Image Name="share_icon.png" />
+          <Image Name="StartBg.jpg" />
+          <Image Name="yxg.png" />
+          <Image Name="yxk.png" />
+          <Image Name="yyg.png" />
+          <Image Name="yyk.png" />
+        </Folder>
+        <Project Name="CreateRoomLayer.csd" Type="Layer" />
+        <Project Name="HallLayer.csd" Type="Layer" />
+        <Project Name="HelpLayer.csd" Type="Layer" />
+        <Project Name="JoinRoomLayer.csd" Type="Layer" />
+        <Project Name="LoginLayer.csd" Type="Layer" />
+        <Project Name="NoticeLayer.csd" Type="Layer" />
+        <Project Name="OpenRoomListLayer.csd" Type="Layer" />
+        <Project Name="RechargeLayer.csd" Type="Layer" />
+        <Project Name="ReplaceRoomLayer.csd" Type="Layer" />
+        <Project Name="ResultLayer.csd" Type="Layer" />
+        <Project Name="RoomInfoLayer.csd" Type="Layer" />
+        <Project Name="SetLayer.csd" Type="Layer" />
+        <Project Name="ShareLayer.csd" Type="Layer" />
+        <Project Name="ShareResultLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
